@@ -14,7 +14,7 @@
 </head>
 <body>
     <div class='wrapper'>
-        <a href="u_club.php"><h2>club Upload</h2></a>
+        <a href="u_club.php"><h2>Club Upload</h2></a>
 
 
 <form action="#" method="post">
