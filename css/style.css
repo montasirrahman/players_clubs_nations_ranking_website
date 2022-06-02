@@ -1,0 +1,11 @@
+.header {
+    max-width: 400;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 17px;
+    background-color: #000;
+}
+.header a {
+    padding: 10px;
+    color: #fff;
+}
